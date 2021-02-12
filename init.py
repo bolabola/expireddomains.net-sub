@@ -15,7 +15,7 @@ DOMAIN = "http://45.79.78.65/"
 ######## EXPIREDDOMAINS.NET ##########
 MAIN_ACCOUNT = False
 ACCOUNT_NO = 1
-USERNAME = "senhalove6"
-PASSWORD = "senhalove6"
+USERNAME = ""
+PASSWORD = ""
 ExpiredDomainssessid = ""
 ###################################################################
